@@ -53,5 +53,4 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 
-[![@jiyanpatil07's Holopin board](https://holopin.me/jiyanpatil07)](https://www.holopin.io/sticker/cl8d8tlob004809jnk46q2mq6)
 
