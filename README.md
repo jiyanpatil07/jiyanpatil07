@@ -15,9 +15,9 @@
 
 - 👯 I’m looking to collaborate on [LetsMeet](https://github.com/jiyanpatil07/video-Conferencing-app)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jiyan.vercel.app/](https://portfolio-jiyan.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-jiyan.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@jiyanpatil07](https://hashnode.com/@jiyanpatil07)
+- 📝 I regularly write articles on [HashNode](https://hashnode.com/@jiyanpatil07)
 
 - 💬 Ask me about **REACT,NEXTJS,PYTHON AND DSA.**
 
