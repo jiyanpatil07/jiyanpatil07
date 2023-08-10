@@ -27,11 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Have you seen this sexy button?](https://dev.to/rahuldkjain/have-you-seen-this-sexy-button-2ijn)
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
+- [Git- Mastering The Version Control.](https://medium.com/@jiyanpatil07/git-mastering-the-version-control-81a2afea649b?source=rss-71d8a40b7ac1------2)
+- [Embracing the Power of Fog Computing](https://medium.com/@jiyanpatil07/embracing-the-power-of-fog-computing-23cd8e307d?source=rss-71d8a40b7ac1------2)
+- [Timed Automata in TOC and its applications](https://medium.com/@jiyanpatil07/timed-automata-in-toc-and-its-applications-4ca7e1c9be3d?source=rss-71d8a40b7ac1------2)
+- [ChatGPT Tutorial For Developers&lpar;Thread&rpar;](https://blog.gopenai.com/chatgpt-tutorial-for-developers-thread-c1f09c017360?source=rss-71d8a40b7ac1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
