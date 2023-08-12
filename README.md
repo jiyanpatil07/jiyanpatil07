@@ -25,13 +25,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cMjqY8xqB9fqTc2frsBQn_5Gp8t-Fq1b/view?usp=sharing](https://drive.google.com/file/d/1cMjqY8xqB9fqTc2frsBQn_5Gp8t-Fq1b/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Git- Mastering The Version Control.](https://medium.com/@jiyanpatil07/git-mastering-the-version-control-81a2afea649b?source=rss-71d8a40b7ac1------2)
-- [Embracing the Power of Fog Computing](https://medium.com/@jiyanpatil07/embracing-the-power-of-fog-computing-23cd8e307d?source=rss-71d8a40b7ac1------2)
-- [Timed Automata in TOC and its applications](https://medium.com/@jiyanpatil07/timed-automata-in-toc-and-its-applications-4ca7e1c9be3d?source=rss-71d8a40b7ac1------2)
-- [ChatGPT Tutorial For Developers&lpar;Thread&rpar;](https://blog.gopenai.com/chatgpt-tutorial-for-developers-thread-c1f09c017360?source=rss-71d8a40b7ac1------2)
-<!-- BLOG-POST-LIST:END -->
+## Hashnode Blog Posts
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
