@@ -27,6 +27,11 @@
 
 ## Hashnode Blog Posts
 <!-- HASHNODE:START -->
+- [Linux - Deep Dive](https://jiyanknowmore.hashnode.dev/linux-deep-dive)
+- [Linux - Operating System](https://jiyanknowmore.hashnode.dev/linux-operating-system)
+- [GitHub -  Hive and the Power of Collaboration](https://jiyanknowmore.hashnode.dev/githubforbegginers)
+- [Git- Mastering The Version Control.](https://jiyanknowmore.hashnode.dev/git-mastering-the-version-control)
+- [What is “GitHub Actions “🚀](https://jiyanknowmore.hashnode.dev/what-is-github-actions)
 <!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
