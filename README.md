@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jiyanpatil0707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cMjqY8xqB9fqTc2frsBQn_5Gp8t-Fq1b/view?usp=sharing][Resume][(https://drive.google.com/file/d/1cMjqY8xqB9fqTc2frsBQn_5Gp8t-Fq1b/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cMjqY8xqB9fqTc2frsBQn_5Gp8t-Fq1b/view)
 - <p align="left"> <a href="https://twitter.com/@jiyanpatil07" target="blank"><img src="https://img.shields.io/twitter/follow/@jiyanpatil07?logo=twitter&style=for-the-badge" alt="@jiyanpatil07" /></a> </p>
 
 ## Hashnode Blog Posts
